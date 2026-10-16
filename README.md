@@ -16,7 +16,6 @@ The project demonstrates practical SQL skills, including data cleaning, multi-ta
 - Identify top-performing product categories and products by revenue.
 - Analyze customer spending patterns and repeat purchasing behavior.
 - Segment customers based on their spending.
-- Apply advanced SQL techniques to answer business questions.
 
 ## Dataset
 
@@ -99,13 +98,6 @@ Data preparation includes:
 - What proportion of customers make repeat purchases?
 - How do customers differ across spending segments?
 
-### 4. Advanced SQL
-- Common Table Expressions (CTEs)
-- Window functions such as `LAG()` and `DENSE_RANK()`
-- Conditional logic using `CASE`
-- Multi-table joins and subqueries
-- Aggregations and data validation
-
 ## Key Findings
 
 The following findings were observed in the current analysis:
@@ -131,7 +123,6 @@ ecommerce-sql-analysis/
     ├── 03_sales_analysis.sql
     ├── 04_product_analysis.sql
     ├── 05_customer_analysis.sql
-    └── 06_advanced_sql.sql
 ```
 
 The SQL scripts will contain the queries used for data validation, cleaning, sales analysis, product analysis, customer analysis, and advanced SQL exercises.
